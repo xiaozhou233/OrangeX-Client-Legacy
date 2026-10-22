@@ -1,3 +1,6 @@
+# This is an archive. For the latest version, please refer to [OrangeX-Client](https://github.com/xiaozhou233/OrangeX-Client)
+---
+
 # OrangeX Client
 
 ![Banner1](./doc/banner1.png)
