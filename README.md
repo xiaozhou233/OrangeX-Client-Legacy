@@ -1,3 +1,5 @@
+# 这是一个归档，最新版本请查看 [OrangeX-Client](https://github.com/xiaozhou233/OrangeX-Client)
+---
 # OrangeX Client
 ![Banner1](./doc/banner1.png)
 ![Banner2](./doc/banner2.png)
